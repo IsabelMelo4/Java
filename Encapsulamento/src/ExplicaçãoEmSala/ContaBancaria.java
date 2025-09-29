@@ -2,7 +2,7 @@ package ExplicaçãoEmSala;
 
 public class ContaBancaria {
 
-   private double saldo;
+   public double saldo;
    public String nome;
 
 
