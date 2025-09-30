@@ -9,8 +9,6 @@ public class Caneta {
 
     private boolean tampada;
 
-
-
     // aqui definimos os atributos, onde eles podem ser publicos
     // privados ou protegidos e nem todos podem acessar
 
@@ -24,7 +22,6 @@ public class Caneta {
         this.tampar();
 
     }
-
 
     public String getMarca(){
         return this.marca;
