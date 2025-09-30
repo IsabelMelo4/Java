@@ -20,7 +20,6 @@ public class ManipulandoArrays {
         System.out.println(array3.indexOf(5.85f)); // mostra o endereço do elemento
         System.out.println(array3.get(2)); //mostra o elemento no indice indicado
         array3.remove(5.85f); // remove o elemento
-
         System.out.println(array3);
 
     }

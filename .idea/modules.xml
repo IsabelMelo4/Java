@@ -3,12 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arrays/Arrays.iml" filepath="$PROJECT_DIR$/Arrays/Arrays.iml" />
-      <module fileurl="file://$PROJECT_DIR$/ClasseEObjeto/ClasseEObjeto.iml" filepath="$PROJECT_DIR$/ClasseEObjeto/ClasseEObjeto.iml" />
       <module fileurl="file://$PROJECT_DIR$/CondicionaisJava/CondicionaisJava.iml" filepath="$PROJECT_DIR$/CondicionaisJava/CondicionaisJava.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" filepath="$PROJECT_DIR$/Encapsulamento/Encapsulamento.iml" />
       <module fileurl="file://$PROJECT_DIR$/Exercicios/Exercicios.iml" filepath="$PROJECT_DIR$/Exercicios/Exercicios.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java.iml" filepath="$PROJECT_DIR$/.idea/Java.iml" />
-      <module fileurl="file://$PROJECT_DIR$/MetodosEspeciais/MetodosEspeciais.iml" filepath="$PROJECT_DIR$/MetodosEspeciais/MetodosEspeciais.iml" />
     </modules>
   </component>
 </project>
